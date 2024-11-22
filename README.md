@@ -10,7 +10,7 @@ mkdir -p robot_ws/src
 cd robot_ws/src
 
 # For Humble use master branch
-git clone  git@github.com:AradHajari/Concordia-Research-Multibot.git -b master
+git clone  git@github.com:AradHajari/Fleet-Management-Formation-Control.git -b master
 
 cd robot_ws
 source /opt/ros/humble/setup.bash
